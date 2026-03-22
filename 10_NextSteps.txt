@@ -1,0 +1,8 @@
+Proposed Improvements for the next delivery
+
+- Include more existing datasets.
+- Make comparisson with other classifiers, including non DL approaches like SVM.
+- Preprocessing improvements
+    1. SpecAugment (Time and Frequency Masking)
+    2. CLAHE (Contrast Limited Adaptive Histogram Equalization)
+    3. Grayscale Conversion vs. Colormaps
