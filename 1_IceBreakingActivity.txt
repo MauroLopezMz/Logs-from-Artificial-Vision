@@ -1,0 +1,15 @@
+Hi everyone, let me share with you an overview about what I'll be working
+
+My doctoral research focuses on developing a resilient monitoring architecture for Smart Grids. The goal is to design a MIMO (Multiple-Input Multiple-Output) optical sensor and communication system using Space Division Multiplexing (SDM) over optical fiber.
+
+
+
+Essentially, we aim to transmit multiple critical electrical variables (voltages, currents from different systems) simultaneously through a single multimode fiber, ensuring data integrity in high-voltage environments where traditional electronic sensors fail due to electromagnetic interference. Currently, the project is in the process of defining the signal processing and recovery architecture.
+
+
+
+Although my thesis advisor's main focus is optoelectronics and signal processing, I guess, it could be possible to use computer vision to provide innovative solutions for information processing at the "edge," for Power Quality Classification Using Images: which I propose to explore as part of the experiments for this course, so it could be relevant in my research.
+
+
+
+I guess, the use of a "edge" device could be an extra, but it depends on availability and future talks with my supervisor, then only softaware is always an alternative.
